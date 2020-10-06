@@ -1,0 +1,13 @@
+D:\Git\CSharp\Mosh\Course1\Introduction\HelloWorld\HelloWorld\bin\Debug\netcoreapp3.1\HelloWorld.exe
+D:\Git\CSharp\Mosh\Course1\Introduction\HelloWorld\HelloWorld\bin\Debug\netcoreapp3.1\HelloWorld.deps.json
+D:\Git\CSharp\Mosh\Course1\Introduction\HelloWorld\HelloWorld\bin\Debug\netcoreapp3.1\HelloWorld.runtimeconfig.json
+D:\Git\CSharp\Mosh\Course1\Introduction\HelloWorld\HelloWorld\bin\Debug\netcoreapp3.1\HelloWorld.runtimeconfig.dev.json
+D:\Git\CSharp\Mosh\Course1\Introduction\HelloWorld\HelloWorld\bin\Debug\netcoreapp3.1\HelloWorld.dll
+D:\Git\CSharp\Mosh\Course1\Introduction\HelloWorld\HelloWorld\bin\Debug\netcoreapp3.1\HelloWorld.pdb
+D:\Git\CSharp\Mosh\Course1\Introduction\HelloWorld\HelloWorld\obj\Debug\netcoreapp3.1\HelloWorld.csprojAssemblyReference.cache
+D:\Git\CSharp\Mosh\Course1\Introduction\HelloWorld\HelloWorld\obj\Debug\netcoreapp3.1\HelloWorld.AssemblyInfoInputs.cache
+D:\Git\CSharp\Mosh\Course1\Introduction\HelloWorld\HelloWorld\obj\Debug\netcoreapp3.1\HelloWorld.AssemblyInfo.cs
+D:\Git\CSharp\Mosh\Course1\Introduction\HelloWorld\HelloWorld\obj\Debug\netcoreapp3.1\HelloWorld.csproj.CoreCompileInputs.cache
+D:\Git\CSharp\Mosh\Course1\Introduction\HelloWorld\HelloWorld\obj\Debug\netcoreapp3.1\HelloWorld.dll
+D:\Git\CSharp\Mosh\Course1\Introduction\HelloWorld\HelloWorld\obj\Debug\netcoreapp3.1\HelloWorld.pdb
+D:\Git\CSharp\Mosh\Course1\Introduction\HelloWorld\HelloWorld\obj\Debug\netcoreapp3.1\HelloWorld.genruntimeconfig.cache
