@@ -1,0 +1,19 @@
+Variables and constants
+
+Variable: a name given to a storage location in memory 
+Constant: an immutable value
+
+Declaring Variables/Constants
+
+To declare a variable we start with a type, followed by an identifier
+
+int number;
+
+when declaring a variable we can optionally assign it a value
+
+int Number = 1; // 
+
+to declare a constant we start with the keyword const, and we have to initialise it
+
+const float Pi = 3.14f;
+
