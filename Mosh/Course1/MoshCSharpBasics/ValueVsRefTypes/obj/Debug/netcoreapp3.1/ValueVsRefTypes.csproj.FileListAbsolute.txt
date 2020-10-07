@@ -1,0 +1,12 @@
+D:\Git\CSharp\Mosh\Course1\MoshCSharpBasics\ValueVsRefTypes\bin\Debug\netcoreapp3.1\ValueVsRefTypes.exe
+D:\Git\CSharp\Mosh\Course1\MoshCSharpBasics\ValueVsRefTypes\bin\Debug\netcoreapp3.1\ValueVsRefTypes.deps.json
+D:\Git\CSharp\Mosh\Course1\MoshCSharpBasics\ValueVsRefTypes\bin\Debug\netcoreapp3.1\ValueVsRefTypes.runtimeconfig.json
+D:\Git\CSharp\Mosh\Course1\MoshCSharpBasics\ValueVsRefTypes\bin\Debug\netcoreapp3.1\ValueVsRefTypes.runtimeconfig.dev.json
+D:\Git\CSharp\Mosh\Course1\MoshCSharpBasics\ValueVsRefTypes\bin\Debug\netcoreapp3.1\ValueVsRefTypes.dll
+D:\Git\CSharp\Mosh\Course1\MoshCSharpBasics\ValueVsRefTypes\bin\Debug\netcoreapp3.1\ValueVsRefTypes.pdb
+D:\Git\CSharp\Mosh\Course1\MoshCSharpBasics\ValueVsRefTypes\obj\Debug\netcoreapp3.1\ValueVsRefTypes.AssemblyInfoInputs.cache
+D:\Git\CSharp\Mosh\Course1\MoshCSharpBasics\ValueVsRefTypes\obj\Debug\netcoreapp3.1\ValueVsRefTypes.AssemblyInfo.cs
+D:\Git\CSharp\Mosh\Course1\MoshCSharpBasics\ValueVsRefTypes\obj\Debug\netcoreapp3.1\ValueVsRefTypes.csproj.CoreCompileInputs.cache
+D:\Git\CSharp\Mosh\Course1\MoshCSharpBasics\ValueVsRefTypes\obj\Debug\netcoreapp3.1\ValueVsRefTypes.dll
+D:\Git\CSharp\Mosh\Course1\MoshCSharpBasics\ValueVsRefTypes\obj\Debug\netcoreapp3.1\ValueVsRefTypes.pdb
+D:\Git\CSharp\Mosh\Course1\MoshCSharpBasics\ValueVsRefTypes\obj\Debug\netcoreapp3.1\ValueVsRefTypes.genruntimeconfig.cache

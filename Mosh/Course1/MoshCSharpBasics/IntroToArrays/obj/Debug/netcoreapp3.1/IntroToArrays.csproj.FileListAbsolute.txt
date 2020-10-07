@@ -1,0 +1,13 @@
+D:\Git\CSharp\Mosh\Course1\MoshCSharpBasics\IntroToArrays\bin\Debug\netcoreapp3.1\IntroToArrays.exe
+D:\Git\CSharp\Mosh\Course1\MoshCSharpBasics\IntroToArrays\bin\Debug\netcoreapp3.1\IntroToArrays.deps.json
+D:\Git\CSharp\Mosh\Course1\MoshCSharpBasics\IntroToArrays\bin\Debug\netcoreapp3.1\IntroToArrays.runtimeconfig.json
+D:\Git\CSharp\Mosh\Course1\MoshCSharpBasics\IntroToArrays\bin\Debug\netcoreapp3.1\IntroToArrays.runtimeconfig.dev.json
+D:\Git\CSharp\Mosh\Course1\MoshCSharpBasics\IntroToArrays\bin\Debug\netcoreapp3.1\IntroToArrays.dll
+D:\Git\CSharp\Mosh\Course1\MoshCSharpBasics\IntroToArrays\bin\Debug\netcoreapp3.1\IntroToArrays.pdb
+D:\Git\CSharp\Mosh\Course1\MoshCSharpBasics\IntroToArrays\obj\Debug\netcoreapp3.1\IntroToArrays.csprojAssemblyReference.cache
+D:\Git\CSharp\Mosh\Course1\MoshCSharpBasics\IntroToArrays\obj\Debug\netcoreapp3.1\IntroToArrays.AssemblyInfoInputs.cache
+D:\Git\CSharp\Mosh\Course1\MoshCSharpBasics\IntroToArrays\obj\Debug\netcoreapp3.1\IntroToArrays.AssemblyInfo.cs
+D:\Git\CSharp\Mosh\Course1\MoshCSharpBasics\IntroToArrays\obj\Debug\netcoreapp3.1\IntroToArrays.csproj.CoreCompileInputs.cache
+D:\Git\CSharp\Mosh\Course1\MoshCSharpBasics\IntroToArrays\obj\Debug\netcoreapp3.1\IntroToArrays.dll
+D:\Git\CSharp\Mosh\Course1\MoshCSharpBasics\IntroToArrays\obj\Debug\netcoreapp3.1\IntroToArrays.pdb
+D:\Git\CSharp\Mosh\Course1\MoshCSharpBasics\IntroToArrays\obj\Debug\netcoreapp3.1\IntroToArrays.genruntimeconfig.cache

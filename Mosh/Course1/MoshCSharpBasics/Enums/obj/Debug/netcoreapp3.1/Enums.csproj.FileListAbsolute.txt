@@ -1,0 +1,13 @@
+D:\Git\CSharp\Mosh\Course1\MoshCSharpBasics\Enums\bin\Debug\netcoreapp3.1\Enums.exe
+D:\Git\CSharp\Mosh\Course1\MoshCSharpBasics\Enums\bin\Debug\netcoreapp3.1\Enums.deps.json
+D:\Git\CSharp\Mosh\Course1\MoshCSharpBasics\Enums\bin\Debug\netcoreapp3.1\Enums.runtimeconfig.json
+D:\Git\CSharp\Mosh\Course1\MoshCSharpBasics\Enums\bin\Debug\netcoreapp3.1\Enums.runtimeconfig.dev.json
+D:\Git\CSharp\Mosh\Course1\MoshCSharpBasics\Enums\bin\Debug\netcoreapp3.1\Enums.dll
+D:\Git\CSharp\Mosh\Course1\MoshCSharpBasics\Enums\bin\Debug\netcoreapp3.1\Enums.pdb
+D:\Git\CSharp\Mosh\Course1\MoshCSharpBasics\Enums\obj\Debug\netcoreapp3.1\Enums.csprojAssemblyReference.cache
+D:\Git\CSharp\Mosh\Course1\MoshCSharpBasics\Enums\obj\Debug\netcoreapp3.1\Enums.AssemblyInfoInputs.cache
+D:\Git\CSharp\Mosh\Course1\MoshCSharpBasics\Enums\obj\Debug\netcoreapp3.1\Enums.AssemblyInfo.cs
+D:\Git\CSharp\Mosh\Course1\MoshCSharpBasics\Enums\obj\Debug\netcoreapp3.1\Enums.csproj.CoreCompileInputs.cache
+D:\Git\CSharp\Mosh\Course1\MoshCSharpBasics\Enums\obj\Debug\netcoreapp3.1\Enums.dll
+D:\Git\CSharp\Mosh\Course1\MoshCSharpBasics\Enums\obj\Debug\netcoreapp3.1\Enums.pdb
+D:\Git\CSharp\Mosh\Course1\MoshCSharpBasics\Enums\obj\Debug\netcoreapp3.1\Enums.genruntimeconfig.cache
