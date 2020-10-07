@@ -1,0 +1,12 @@
+D:\Git\CSharp\Mosh\Course1\PrimitiveTypesAndExpressions\TypeConversion\TypeConversion\TypeConversion\bin\Debug\netcoreapp3.1\TypeConversion.exe
+D:\Git\CSharp\Mosh\Course1\PrimitiveTypesAndExpressions\TypeConversion\TypeConversion\TypeConversion\bin\Debug\netcoreapp3.1\TypeConversion.deps.json
+D:\Git\CSharp\Mosh\Course1\PrimitiveTypesAndExpressions\TypeConversion\TypeConversion\TypeConversion\bin\Debug\netcoreapp3.1\TypeConversion.runtimeconfig.json
+D:\Git\CSharp\Mosh\Course1\PrimitiveTypesAndExpressions\TypeConversion\TypeConversion\TypeConversion\bin\Debug\netcoreapp3.1\TypeConversion.runtimeconfig.dev.json
+D:\Git\CSharp\Mosh\Course1\PrimitiveTypesAndExpressions\TypeConversion\TypeConversion\TypeConversion\bin\Debug\netcoreapp3.1\TypeConversion.dll
+D:\Git\CSharp\Mosh\Course1\PrimitiveTypesAndExpressions\TypeConversion\TypeConversion\TypeConversion\bin\Debug\netcoreapp3.1\TypeConversion.pdb
+D:\Git\CSharp\Mosh\Course1\PrimitiveTypesAndExpressions\TypeConversion\TypeConversion\TypeConversion\obj\Debug\netcoreapp3.1\TypeConversion.AssemblyInfoInputs.cache
+D:\Git\CSharp\Mosh\Course1\PrimitiveTypesAndExpressions\TypeConversion\TypeConversion\TypeConversion\obj\Debug\netcoreapp3.1\TypeConversion.AssemblyInfo.cs
+D:\Git\CSharp\Mosh\Course1\PrimitiveTypesAndExpressions\TypeConversion\TypeConversion\TypeConversion\obj\Debug\netcoreapp3.1\TypeConversion.csproj.CoreCompileInputs.cache
+D:\Git\CSharp\Mosh\Course1\PrimitiveTypesAndExpressions\TypeConversion\TypeConversion\TypeConversion\obj\Debug\netcoreapp3.1\TypeConversion.dll
+D:\Git\CSharp\Mosh\Course1\PrimitiveTypesAndExpressions\TypeConversion\TypeConversion\TypeConversion\obj\Debug\netcoreapp3.1\TypeConversion.pdb
+D:\Git\CSharp\Mosh\Course1\PrimitiveTypesAndExpressions\TypeConversion\TypeConversion\TypeConversion\obj\Debug\netcoreapp3.1\TypeConversion.genruntimeconfig.cache
