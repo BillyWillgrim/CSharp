@@ -1,0 +1,12 @@
+D:\Git\CSharp\Mosh\Course1\MoshCSharpBasics\Arrays\bin\Debug\netcoreapp3.1\Arrays.exe
+D:\Git\CSharp\Mosh\Course1\MoshCSharpBasics\Arrays\bin\Debug\netcoreapp3.1\Arrays.deps.json
+D:\Git\CSharp\Mosh\Course1\MoshCSharpBasics\Arrays\bin\Debug\netcoreapp3.1\Arrays.runtimeconfig.json
+D:\Git\CSharp\Mosh\Course1\MoshCSharpBasics\Arrays\bin\Debug\netcoreapp3.1\Arrays.runtimeconfig.dev.json
+D:\Git\CSharp\Mosh\Course1\MoshCSharpBasics\Arrays\bin\Debug\netcoreapp3.1\Arrays.dll
+D:\Git\CSharp\Mosh\Course1\MoshCSharpBasics\Arrays\bin\Debug\netcoreapp3.1\Arrays.pdb
+D:\Git\CSharp\Mosh\Course1\MoshCSharpBasics\Arrays\obj\Debug\netcoreapp3.1\Arrays.AssemblyInfoInputs.cache
+D:\Git\CSharp\Mosh\Course1\MoshCSharpBasics\Arrays\obj\Debug\netcoreapp3.1\Arrays.AssemblyInfo.cs
+D:\Git\CSharp\Mosh\Course1\MoshCSharpBasics\Arrays\obj\Debug\netcoreapp3.1\Arrays.csproj.CoreCompileInputs.cache
+D:\Git\CSharp\Mosh\Course1\MoshCSharpBasics\Arrays\obj\Debug\netcoreapp3.1\Arrays.dll
+D:\Git\CSharp\Mosh\Course1\MoshCSharpBasics\Arrays\obj\Debug\netcoreapp3.1\Arrays.pdb
+D:\Git\CSharp\Mosh\Course1\MoshCSharpBasics\Arrays\obj\Debug\netcoreapp3.1\Arrays.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+D:\Git\CSharp\Mosh\Course1\MoshCSharpBasics\Lists\bin\Debug\netcoreapp3.1\Lists.exe
+D:\Git\CSharp\Mosh\Course1\MoshCSharpBasics\Lists\bin\Debug\netcoreapp3.1\Lists.deps.json
+D:\Git\CSharp\Mosh\Course1\MoshCSharpBasics\Lists\bin\Debug\netcoreapp3.1\Lists.runtimeconfig.json
+D:\Git\CSharp\Mosh\Course1\MoshCSharpBasics\Lists\bin\Debug\netcoreapp3.1\Lists.runtimeconfig.dev.json
+D:\Git\CSharp\Mosh\Course1\MoshCSharpBasics\Lists\bin\Debug\netcoreapp3.1\Lists.dll
+D:\Git\CSharp\Mosh\Course1\MoshCSharpBasics\Lists\bin\Debug\netcoreapp3.1\Lists.pdb
+D:\Git\CSharp\Mosh\Course1\MoshCSharpBasics\Lists\obj\Debug\netcoreapp3.1\Lists.AssemblyInfoInputs.cache
+D:\Git\CSharp\Mosh\Course1\MoshCSharpBasics\Lists\obj\Debug\netcoreapp3.1\Lists.AssemblyInfo.cs
+D:\Git\CSharp\Mosh\Course1\MoshCSharpBasics\Lists\obj\Debug\netcoreapp3.1\Lists.csproj.CoreCompileInputs.cache
+D:\Git\CSharp\Mosh\Course1\MoshCSharpBasics\Lists\obj\Debug\netcoreapp3.1\Lists.dll
+D:\Git\CSharp\Mosh\Course1\MoshCSharpBasics\Lists\obj\Debug\netcoreapp3.1\Lists.pdb
+D:\Git\CSharp\Mosh\Course1\MoshCSharpBasics\Lists\obj\Debug\netcoreapp3.1\Lists.genruntimeconfig.cache

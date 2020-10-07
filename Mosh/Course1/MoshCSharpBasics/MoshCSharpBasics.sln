@@ -3,13 +3,17 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30523.141
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Classes", "Classes\Classes.csproj", "{ED294C25-5BC7-40B6-A19F-9C7E0965282C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Classes", "Classes\Classes.csproj", "{ED294C25-5BC7-40B6-A19F-9C7E0965282C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IntroToArrays", "IntroToArrays\IntroToArrays.csproj", "{E9B7F582-704D-49D0-9DBC-792325444C36}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IntroToArrays", "IntroToArrays\IntroToArrays.csproj", "{E9B7F582-704D-49D0-9DBC-792325444C36}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Enums", "Enums\Enums.csproj", "{37FDCBC1-C0F0-4C44-ABF9-03FB1FF037C3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Enums", "Enums\Enums.csproj", "{37FDCBC1-C0F0-4C44-ABF9-03FB1FF037C3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ValueVsRefTypes", "ValueVsRefTypes\ValueVsRefTypes.csproj", "{42C3AC16-7A40-4BBC-BB12-C9AA6ED060DC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ValueVsRefTypes", "ValueVsRefTypes\ValueVsRefTypes.csproj", "{42C3AC16-7A40-4BBC-BB12-C9AA6ED060DC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Arrays", "Arrays\Arrays.csproj", "{18E7B4F3-2882-42F2-88F4-33979368EDBC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lists", "Lists\Lists.csproj", "{232003CD-E637-436F-9C8A-F0535817DE7A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +37,14 @@ Global
 		{42C3AC16-7A40-4BBC-BB12-C9AA6ED060DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{42C3AC16-7A40-4BBC-BB12-C9AA6ED060DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{42C3AC16-7A40-4BBC-BB12-C9AA6ED060DC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{18E7B4F3-2882-42F2-88F4-33979368EDBC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{18E7B4F3-2882-42F2-88F4-33979368EDBC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{18E7B4F3-2882-42F2-88F4-33979368EDBC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{18E7B4F3-2882-42F2-88F4-33979368EDBC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{232003CD-E637-436F-9C8A-F0535817DE7A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{232003CD-E637-436F-9C8A-F0535817DE7A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{232003CD-E637-436F-9C8A-F0535817DE7A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{232003CD-E637-436F-9C8A-F0535817DE7A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
