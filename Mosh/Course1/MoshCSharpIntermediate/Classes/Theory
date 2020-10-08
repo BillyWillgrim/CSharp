@@ -1,0 +1,24 @@
+Classes: 
+
+Classes are the building blocks of an application. In the real world an application is made up of a collection of classes, each responisible for a particular behaviour in the app.
+
+A class is essentially made up of two parts:
+  
+  Data - represented by fields
+  Behaviour - represented by methods
+  
+An object is an instance of a class that resides in memory. A class defines the blueprint from which we can create objects at runtime.
+  
+We have two types of class members in C#:
+  
+  Instance members: accessible from an object
+  
+  Static members: accessible from the class
+  
+Why use static members? 
+
+  To represent concepts that are singleton (there should only be one instance of it in memory)
+  
+  For example, the current date and time - DateTime.Now
+  
+  Another example, Console.WriteLine() - we only want one console in a console application
