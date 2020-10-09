@@ -1,0 +1,52 @@
+The Access Modifiers are: 
+
+. Public
+
+. Private
+
+. Protected
+
+. Internal
+
+. Protected Internal
+
+
+The later three (Protected, Internal, Protected Internal) are all to do with inheritance.
+
+Access modifiers are used to control access to a class and/or its members. This creates safety in a program.
+
+This brings us onto the concept of OOP for the first time. There are three major concepts in OOP:
+
+ - Encapsulation (Information Hiding)
+
+ - Inheritance
+
+ - Polymorphism
+
+ Encapsulation in practice:
+
+	- Define fields as private
+	
+	- Provide getter/setter methods as public
+
+public class Person
+{
+	private string Name;
+
+	public void SetName(string name)
+	{
+		if (!String.IsNullOrEmpty(name))
+			this.Name = name;
+	}
+
+	public string GetName()
+	{
+		return Name;
+	}
+
+}
+
+An advantage of using "setter" and "getter" methods like this is that we can check that the value being passed to the method is not null before setting the field.
+This isn't an option with just fields, as they are purely a storage in memory with no logic.
+
+

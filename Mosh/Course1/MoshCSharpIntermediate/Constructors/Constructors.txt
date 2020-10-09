@@ -1,0 +1,43 @@
+﻿
+A constructor is a method that is called when an instance of a class is created.
+
+They are used to put an object in an early state. That is, to initialize some of the fields in the class.
+
+They use the following syntax: 
+
+public class Customer
+{
+	public Customer()
+	{
+	}
+}
+
+The constructor has the exact same name as the class and this is a requirement. Without the same name, the compiler and runtime will not treat it as a constructor.
+
+Constructors do not have a return type, not even void.
+
+A constructor with no parameters is known as a default constructor. If you don't define a default constructor for yoru class, the C# compiler creates one for it. It won't do anything other than initialize the fields of the class to their default values.
+
+A constructor with parameters looks like this:
+
+public class Customer
+{
+	public string Name;
+
+	public Customer(string name)
+	{
+		this.Name = name;
+	}
+}
+
+'this' is a keyword that references the current object. 
+
+We can then create a new instance of the class like this:
+
+var customer = new Customer("John");
+
+Constructor Overloading:
+
+Overloading means having a method by the same name but different signatures. It is an example of compilation-time polymorphism
+
+

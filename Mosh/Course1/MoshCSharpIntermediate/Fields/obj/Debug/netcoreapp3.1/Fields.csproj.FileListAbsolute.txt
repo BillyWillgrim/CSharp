@@ -1,0 +1,13 @@
+D:\Git\CSharp\Mosh\Course1\MoshCSharpIntermediate\Fields\bin\Debug\netcoreapp3.1\Fields.exe
+D:\Git\CSharp\Mosh\Course1\MoshCSharpIntermediate\Fields\bin\Debug\netcoreapp3.1\Fields.deps.json
+D:\Git\CSharp\Mosh\Course1\MoshCSharpIntermediate\Fields\bin\Debug\netcoreapp3.1\Fields.runtimeconfig.json
+D:\Git\CSharp\Mosh\Course1\MoshCSharpIntermediate\Fields\bin\Debug\netcoreapp3.1\Fields.runtimeconfig.dev.json
+D:\Git\CSharp\Mosh\Course1\MoshCSharpIntermediate\Fields\bin\Debug\netcoreapp3.1\Fields.dll
+D:\Git\CSharp\Mosh\Course1\MoshCSharpIntermediate\Fields\bin\Debug\netcoreapp3.1\Fields.pdb
+D:\Git\CSharp\Mosh\Course1\MoshCSharpIntermediate\Fields\obj\Debug\netcoreapp3.1\Fields.csprojAssemblyReference.cache
+D:\Git\CSharp\Mosh\Course1\MoshCSharpIntermediate\Fields\obj\Debug\netcoreapp3.1\Fields.AssemblyInfoInputs.cache
+D:\Git\CSharp\Mosh\Course1\MoshCSharpIntermediate\Fields\obj\Debug\netcoreapp3.1\Fields.AssemblyInfo.cs
+D:\Git\CSharp\Mosh\Course1\MoshCSharpIntermediate\Fields\obj\Debug\netcoreapp3.1\Fields.csproj.CoreCompileInputs.cache
+D:\Git\CSharp\Mosh\Course1\MoshCSharpIntermediate\Fields\obj\Debug\netcoreapp3.1\Fields.dll
+D:\Git\CSharp\Mosh\Course1\MoshCSharpIntermediate\Fields\obj\Debug\netcoreapp3.1\Fields.pdb
+D:\Git\CSharp\Mosh\Course1\MoshCSharpIntermediate\Fields\obj\Debug\netcoreapp3.1\Fields.genruntimeconfig.cache

@@ -1,0 +1,23 @@
+Here we will discuss how properties help us achieve encapsulation.
+
+A property is a class member that encapsulates a getter and a setter for accessing a field.
+
+They look like this: 
+
+public class Person
+{
+	private DateTime _birthdate;
+
+	public DateTime Birthdate
+	{
+		get { return _birthdate; }
+		set { _birthdate = value; }
+	}
+}
+
+But this can be simplified by using Auto-Implemented Properties
+
+public class Person
+{
+	public DateTime Birthdate {get; set;} // internally, the compiler will create an private field
+}

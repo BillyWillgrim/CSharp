@@ -1,0 +1,13 @@
+D:\Git\CSharp\Mosh\Course1\MoshCSharpIntermediate\Methods\bin\Debug\netcoreapp3.1\Methods.exe
+D:\Git\CSharp\Mosh\Course1\MoshCSharpIntermediate\Methods\bin\Debug\netcoreapp3.1\Methods.deps.json
+D:\Git\CSharp\Mosh\Course1\MoshCSharpIntermediate\Methods\bin\Debug\netcoreapp3.1\Methods.runtimeconfig.json
+D:\Git\CSharp\Mosh\Course1\MoshCSharpIntermediate\Methods\bin\Debug\netcoreapp3.1\Methods.runtimeconfig.dev.json
+D:\Git\CSharp\Mosh\Course1\MoshCSharpIntermediate\Methods\bin\Debug\netcoreapp3.1\Methods.dll
+D:\Git\CSharp\Mosh\Course1\MoshCSharpIntermediate\Methods\bin\Debug\netcoreapp3.1\Methods.pdb
+D:\Git\CSharp\Mosh\Course1\MoshCSharpIntermediate\Methods\obj\Debug\netcoreapp3.1\Methods.csprojAssemblyReference.cache
+D:\Git\CSharp\Mosh\Course1\MoshCSharpIntermediate\Methods\obj\Debug\netcoreapp3.1\Methods.AssemblyInfoInputs.cache
+D:\Git\CSharp\Mosh\Course1\MoshCSharpIntermediate\Methods\obj\Debug\netcoreapp3.1\Methods.AssemblyInfo.cs
+D:\Git\CSharp\Mosh\Course1\MoshCSharpIntermediate\Methods\obj\Debug\netcoreapp3.1\Methods.csproj.CoreCompileInputs.cache
+D:\Git\CSharp\Mosh\Course1\MoshCSharpIntermediate\Methods\obj\Debug\netcoreapp3.1\Methods.dll
+D:\Git\CSharp\Mosh\Course1\MoshCSharpIntermediate\Methods\obj\Debug\netcoreapp3.1\Methods.pdb
+D:\Git\CSharp\Mosh\Course1\MoshCSharpIntermediate\Methods\obj\Debug\netcoreapp3.1\Methods.genruntimeconfig.cache
