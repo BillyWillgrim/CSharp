@@ -1,0 +1,44 @@
+What is inheritance?
+
+A relationship between two classes that allows one to inherit code from the other.
+
+It is an "Is A" relationship e.g. A car is a vehicle.
+
+The benefits of inheritance are:
+
+	. Code re-use - we encapsulate some code in one class, and reuse it in others
+
+	. Polymorphic behaviour - which we will go into later.
+
+Example:
+
+	. Design an application like powerpoint
+
+	. Each object on a slide (shape, text, table, image) share some common attributes such as width, height and position
+
+	. They also share common behaviour (e.g. right click cut/copyduplicate etc. )
+
+	. We could create classes for each of these objects, but we don't want to duplicate all this common behaviour in each class
+
+	. This is where we can use inheritance, to write code once, and re-use it in multiple contexts
+	
+	. We can create a high-level PresentationObject class where we encapsulate the common behaviour
+
+	. We can then create the other Text, Table, Image classes which inherit from presentationObject
+
+	
+In this example PresentationObject is known as a parent/base class, and Text, Table and Image are known as child/derived class
+
+
+Syntax:
+
+
+	public class PresentationObject
+	{
+		// common shared code
+	}
+
+	public class Text : PresentationObject
+	{
+		// code specific to the Text object
+	}

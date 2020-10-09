@@ -11,7 +11,9 @@ namespace Properties
 
             Console.WriteLine(person.Age);
 
+            person.SetNumber(10); // cannot set readonly field outside of class
 
+            Console.WriteLine(person.Number);
         }
     }
 }

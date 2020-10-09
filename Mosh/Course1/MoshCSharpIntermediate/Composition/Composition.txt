@@ -1,0 +1,21 @@
+What is Composition?
+
+Composition is a kind of relationship between two casses that allows one to contain the other.
+
+Composition is an "Has-a" relationship, for example a car has an engine.
+
+Benefits: 
+
+	. Code re-use
+	. Flexibility
+	. A means to loose-coupling
+
+Example: 
+
+	. We are designing an application that requires a class called "DbMigrator" that is responsible for migrating a database. 
+
+	. DbMigrator will be responsible for creating new tables, populating tables with data, renaming columns, dropping colums etc 
+
+	.The app also
+
+

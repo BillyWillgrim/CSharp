@@ -1,0 +1,12 @@
+D:\Git\CSharp\Mosh\Course1\MoshCSharpIntermediate\FizzBuzz\obj\Debug\netcoreapp3.1\FizzBuzz.AssemblyInfoInputs.cache
+D:\Git\CSharp\Mosh\Course1\MoshCSharpIntermediate\FizzBuzz\obj\Debug\netcoreapp3.1\FizzBuzz.AssemblyInfo.cs
+D:\Git\CSharp\Mosh\Course1\MoshCSharpIntermediate\FizzBuzz\obj\Debug\netcoreapp3.1\FizzBuzz.csproj.CoreCompileInputs.cache
+D:\Git\CSharp\Mosh\Course1\MoshCSharpIntermediate\FizzBuzz\bin\Debug\netcoreapp3.1\FizzBuzz.exe
+D:\Git\CSharp\Mosh\Course1\MoshCSharpIntermediate\FizzBuzz\bin\Debug\netcoreapp3.1\FizzBuzz.deps.json
+D:\Git\CSharp\Mosh\Course1\MoshCSharpIntermediate\FizzBuzz\bin\Debug\netcoreapp3.1\FizzBuzz.runtimeconfig.json
+D:\Git\CSharp\Mosh\Course1\MoshCSharpIntermediate\FizzBuzz\bin\Debug\netcoreapp3.1\FizzBuzz.runtimeconfig.dev.json
+D:\Git\CSharp\Mosh\Course1\MoshCSharpIntermediate\FizzBuzz\bin\Debug\netcoreapp3.1\FizzBuzz.dll
+D:\Git\CSharp\Mosh\Course1\MoshCSharpIntermediate\FizzBuzz\bin\Debug\netcoreapp3.1\FizzBuzz.pdb
+D:\Git\CSharp\Mosh\Course1\MoshCSharpIntermediate\FizzBuzz\obj\Debug\netcoreapp3.1\FizzBuzz.dll
+D:\Git\CSharp\Mosh\Course1\MoshCSharpIntermediate\FizzBuzz\obj\Debug\netcoreapp3.1\FizzBuzz.pdb
+D:\Git\CSharp\Mosh\Course1\MoshCSharpIntermediate\FizzBuzz\obj\Debug\netcoreapp3.1\FizzBuzz.genruntimeconfig.cache
