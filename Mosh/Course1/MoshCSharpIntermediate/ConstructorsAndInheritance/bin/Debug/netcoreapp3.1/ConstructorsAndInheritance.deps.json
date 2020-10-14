@@ -6,15 +6,15 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v3.1": {
-      "Fields/1.0.0": {
+      "ConstructorsAndInheritance/1.0.0": {
         "runtime": {
-          "Fields.dll": {}
+          "ConstructorsAndInheritance.dll": {}
         }
       }
     }
   },
   "libraries": {
-    "Fields/1.0.0": {
+    "ConstructorsAndInheritance/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

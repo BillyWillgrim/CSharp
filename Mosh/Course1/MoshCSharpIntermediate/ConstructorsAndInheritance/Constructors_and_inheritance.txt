@@ -1,0 +1,41 @@
+
+There are two thigns to know about constructors when it comes to inheritance:
+
+	. Base class constructors are always executed first.
+
+	. Base class constructors are not inherited.
+
+This means that we need to redifine our constructors in a base class. 
+
+Example of constructor inheritance:
+
+public class Vehicle
+{
+	private string _registrationNumber;
+
+	public Vehicle(string registrationNumber)
+	{
+		_registrationNumber = registrationNumber;
+	}
+}
+
+public class Car: Vehicle
+{
+	public Car(string registrationNumber)
+	{
+		_registrationNumber = registrationNumber; // this is not valid because _registrationNumber is a private member of the base class
+	}
+
+	// instead of repeating code, we should re-use code, by using the base keyword:
+
+	public Car(string registrationNumber)
+		: base(registrationNumber)
+	{
+		// Initialise fields specific to the Car class
+	}
+
+}
+
+In the above example, the base() method is just the constructor of the Vehicle class.
+So the constructor of the Car class recieves an argument called registration number, which is then passed to the base class constructor.
+We can then keep the body of the constructor of the car class free for anything that is specific to the initialisation of the Car class.

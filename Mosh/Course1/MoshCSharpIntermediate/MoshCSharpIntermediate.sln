@@ -23,7 +23,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FizzBuzz", "FizzBuzz\FizzBu
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Composition", "Composition\Composition.csproj", "{76E80C85-7FFB-4C70-A84B-144A97C09D12}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MoreAccessModifiers", "MoreAccessModifiers\MoreAccessModifiers.csproj", "{2F407601-9190-4DB3-B71C-9C9C02B37FA4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MoreAccessModifiers", "MoreAccessModifiers\MoreAccessModifiers.csproj", "{2F407601-9190-4DB3-B71C-9C9C02B37FA4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConstructorsAndInheritance", "ConstructorsAndInheritance\ConstructorsAndInheritance.csproj", "{8BD8851B-7615-4AE2-BAA0-494C38909C07}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -75,6 +77,10 @@ Global
 		{2F407601-9190-4DB3-B71C-9C9C02B37FA4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2F407601-9190-4DB3-B71C-9C9C02B37FA4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2F407601-9190-4DB3-B71C-9C9C02B37FA4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8BD8851B-7615-4AE2-BAA0-494C38909C07}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8BD8851B-7615-4AE2-BAA0-494C38909C07}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8BD8851B-7615-4AE2-BAA0-494C38909C07}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8BD8851B-7615-4AE2-BAA0-494C38909C07}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
