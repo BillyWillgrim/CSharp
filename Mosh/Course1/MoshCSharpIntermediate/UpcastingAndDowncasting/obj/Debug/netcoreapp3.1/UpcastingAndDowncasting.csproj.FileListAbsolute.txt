@@ -1,0 +1,13 @@
+D:\Git\CSharp\Mosh\Course1\MoshCSharpIntermediate\UpcastingAndDowncasting\bin\Debug\netcoreapp3.1\UpcastingAndDowncasting.exe
+D:\Git\CSharp\Mosh\Course1\MoshCSharpIntermediate\UpcastingAndDowncasting\bin\Debug\netcoreapp3.1\UpcastingAndDowncasting.deps.json
+D:\Git\CSharp\Mosh\Course1\MoshCSharpIntermediate\UpcastingAndDowncasting\bin\Debug\netcoreapp3.1\UpcastingAndDowncasting.runtimeconfig.json
+D:\Git\CSharp\Mosh\Course1\MoshCSharpIntermediate\UpcastingAndDowncasting\bin\Debug\netcoreapp3.1\UpcastingAndDowncasting.runtimeconfig.dev.json
+D:\Git\CSharp\Mosh\Course1\MoshCSharpIntermediate\UpcastingAndDowncasting\bin\Debug\netcoreapp3.1\UpcastingAndDowncasting.dll
+D:\Git\CSharp\Mosh\Course1\MoshCSharpIntermediate\UpcastingAndDowncasting\bin\Debug\netcoreapp3.1\UpcastingAndDowncasting.pdb
+D:\Git\CSharp\Mosh\Course1\MoshCSharpIntermediate\UpcastingAndDowncasting\obj\Debug\netcoreapp3.1\UpcastingAndDowncasting.csprojAssemblyReference.cache
+D:\Git\CSharp\Mosh\Course1\MoshCSharpIntermediate\UpcastingAndDowncasting\obj\Debug\netcoreapp3.1\UpcastingAndDowncasting.AssemblyInfoInputs.cache
+D:\Git\CSharp\Mosh\Course1\MoshCSharpIntermediate\UpcastingAndDowncasting\obj\Debug\netcoreapp3.1\UpcastingAndDowncasting.AssemblyInfo.cs
+D:\Git\CSharp\Mosh\Course1\MoshCSharpIntermediate\UpcastingAndDowncasting\obj\Debug\netcoreapp3.1\UpcastingAndDowncasting.csproj.CoreCompileInputs.cache
+D:\Git\CSharp\Mosh\Course1\MoshCSharpIntermediate\UpcastingAndDowncasting\obj\Debug\netcoreapp3.1\UpcastingAndDowncasting.dll
+D:\Git\CSharp\Mosh\Course1\MoshCSharpIntermediate\UpcastingAndDowncasting\obj\Debug\netcoreapp3.1\UpcastingAndDowncasting.pdb
+D:\Git\CSharp\Mosh\Course1\MoshCSharpIntermediate\UpcastingAndDowncasting\obj\Debug\netcoreapp3.1\UpcastingAndDowncasting.genruntimeconfig.cache

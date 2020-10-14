@@ -1,0 +1,62 @@
+
+There are situations where we may need to convert an object to a base, or derived class reference.
+
+Conversion from a derived class to a base class is called upcasting.
+
+Conversion from a base class to a derived class is called downcasting.
+
+These situations use the as and is keywords
+
+Upcasting:
+
+public class Shape
+{
+
+}
+
+public class Circle : Shape
+{
+
+}
+
+Circle circle = new Circle();
+
+// Upcasting
+Shape shape = circle; // In C sharp we can convert an object like circle to it's base class reference - shape. this is done implicitly
+
+
+// Downcasting
+Circle anotherCircle = (Circle)shape; // here we are converting the shape object into a Circle object using an explicit cast
+
+The as keyword:
+
+casting can throw an invalid cast exception. We couldn't do 
+
+Car car = (Car)shape; // throws InvalidCastException
+
+The as keyword can be used to prevent this from happening:
+
+	Car car = (Car)obj; // might throw exception
+
+	Car car = obj as Car;
+	if (car != null)
+	{
+		...
+	}
+
+When we use the as keyword, if the object can't be converted to the target type, we are not going to get an exception.
+Instead null is returned. This means after downcasting, we can check if the object is null or not before doing naything else.
+
+The is keyword:
+
+With the is keyword we can check the type of an object before trying to cast it to that type:
+
+	if (obj is Car)
+	{
+		Car car = (Car) obj
+	}
+
+
+
+
+

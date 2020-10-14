@@ -27,6 +27,10 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MoreAccessModifiers", "More
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConstructorsAndInheritance", "ConstructorsAndInheritance\ConstructorsAndInheritance.csproj", "{8BD8851B-7615-4AE2-BAA0-494C38909C07}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UpcastingAndDowncasting", "UpcastingAndDowncasting\UpcastingAndDowncasting.csproj", "{24F91E2B-957F-45A6-8A23-91A6FC131EF6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfApp1", "WpfApp1\WpfApp1.csproj", "{8CCF4CC7-9AEB-4926-958C-3982C1123019}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -81,6 +85,14 @@ Global
 		{8BD8851B-7615-4AE2-BAA0-494C38909C07}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8BD8851B-7615-4AE2-BAA0-494C38909C07}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8BD8851B-7615-4AE2-BAA0-494C38909C07}.Release|Any CPU.Build.0 = Release|Any CPU
+		{24F91E2B-957F-45A6-8A23-91A6FC131EF6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{24F91E2B-957F-45A6-8A23-91A6FC131EF6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{24F91E2B-957F-45A6-8A23-91A6FC131EF6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{24F91E2B-957F-45A6-8A23-91A6FC131EF6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8CCF4CC7-9AEB-4926-958C-3982C1123019}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8CCF4CC7-9AEB-4926-958C-3982C1123019}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8CCF4CC7-9AEB-4926-958C-3982C1123019}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8CCF4CC7-9AEB-4926-958C-3982C1123019}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
