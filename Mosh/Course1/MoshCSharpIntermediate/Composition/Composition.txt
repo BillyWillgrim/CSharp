@@ -14,8 +14,44 @@ Example:
 
 	. We are designing an application that requires a class called "DbMigrator" that is responsible for migrating a database. 
 
-	. DbMigrator will be responsible for creating new tables, populating tables with data, renaming columns, dropping colums etc 
+	. DbMigrator will be responsible for creating new tables, populating tables with data, renaming columns, dropping colums etc.
 
-	.The app also
+	. As a part of these responsibilities it will require some logging functionality, such as logging each step in a text file.
+
+	. The application also requires a class called Installer, which will be responsible for installing our application in a target environment.
+
+	. Just like DbMigrator, this class will also require logging functionality.
+
+	. Logging is common functionality between these two classes, therefore we can create a class called Logger that will be responsible for logging info to a text file.
 
 
+In this example, both the DbMigrator and Installer classes have a relationship with the Logger class. The type of relationship is "Composition".
+
+Syntax:
+
+public class Installer
+{
+	private Logger _logger
+
+	public Installer(Logger logger)
+	{
+		_logger = logger
+	}
+}
+
+So there is no new fancy syntax as with inheritance, the related class is simply a private field in the class which uses it.
+
+Generally speaking, inheritace results in a more tightly coupled relationship between classes. With composition we can get loose coupling + more flexibiity. For this reason lots of devs favour composition over inheritance.
+
+
+Problems with inheritance:
+
+	. Can be abused by amateur developers
+
+	. leading to large hierarchies of classes
+
+	. which are fragile - if you change a class at the top of the hierarchy, all classes below will be affected 
+
+	. This is what we call tight coupling
+
+Any inheritance relationship can be translated into composition.

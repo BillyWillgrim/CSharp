@@ -1,0 +1,13 @@
+D:\Git\CSharp\Mosh\Course1\MoshCSharpIntermediate\Composition\bin\Debug\netcoreapp3.1\Composition.exe
+D:\Git\CSharp\Mosh\Course1\MoshCSharpIntermediate\Composition\bin\Debug\netcoreapp3.1\Composition.deps.json
+D:\Git\CSharp\Mosh\Course1\MoshCSharpIntermediate\Composition\bin\Debug\netcoreapp3.1\Composition.runtimeconfig.json
+D:\Git\CSharp\Mosh\Course1\MoshCSharpIntermediate\Composition\bin\Debug\netcoreapp3.1\Composition.runtimeconfig.dev.json
+D:\Git\CSharp\Mosh\Course1\MoshCSharpIntermediate\Composition\bin\Debug\netcoreapp3.1\Composition.dll
+D:\Git\CSharp\Mosh\Course1\MoshCSharpIntermediate\Composition\bin\Debug\netcoreapp3.1\Composition.pdb
+D:\Git\CSharp\Mosh\Course1\MoshCSharpIntermediate\Composition\obj\Debug\netcoreapp3.1\Composition.csprojAssemblyReference.cache
+D:\Git\CSharp\Mosh\Course1\MoshCSharpIntermediate\Composition\obj\Debug\netcoreapp3.1\Composition.AssemblyInfoInputs.cache
+D:\Git\CSharp\Mosh\Course1\MoshCSharpIntermediate\Composition\obj\Debug\netcoreapp3.1\Composition.AssemblyInfo.cs
+D:\Git\CSharp\Mosh\Course1\MoshCSharpIntermediate\Composition\obj\Debug\netcoreapp3.1\Composition.csproj.CoreCompileInputs.cache
+D:\Git\CSharp\Mosh\Course1\MoshCSharpIntermediate\Composition\obj\Debug\netcoreapp3.1\Composition.dll
+D:\Git\CSharp\Mosh\Course1\MoshCSharpIntermediate\Composition\obj\Debug\netcoreapp3.1\Composition.pdb
+D:\Git\CSharp\Mosh\Course1\MoshCSharpIntermediate\Composition\obj\Debug\netcoreapp3.1\Composition.genruntimeconfig.cache

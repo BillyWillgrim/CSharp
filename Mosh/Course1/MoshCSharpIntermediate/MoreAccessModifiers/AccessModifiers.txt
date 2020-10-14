@@ -1,0 +1,53 @@
+Black Box metaphor:
+
+You're looking at a black box - you have no idea what's in it. It is completely smooth apart from one button.
+
+This is the kind of way we should be designing our objects - limited visibility from the outside, but lots of magic on the inside.
+
+The more a class reveals about its implementation, the more risky it becomes to modify that class, because there could be other parts of the system that rely on that implementation.
+
+In C# we use access modifiers to control visibility of a class. The access modifiers are:
+
+	. public
+	
+	. private
+
+	. protected
+
+	. internal
+
+	. protected internal
+
+
+Lets ducuss each modifier in detail.
+
+Public:
+
+	. A public class or member is accessible from everywhere.
+
+Private:
+
+	. A private member is only accessible from inside the class.
+
+Protected:
+
+	. A protected member is only accessible from the class and its derived classes.
+
+	. This modifier can break encapsulation, because any derived class can see the implementation of the protected member.
+
+	. It's usually best to just avoid this access modifier.
+
+Internal:
+
+	. Accessible only from the same assembly
+
+	. Usually used on classes rather than members
+
+Protected Internal:
+
+	. Accessible only from the same assembly or any derived classes.
+
+	. Mosh hates this.
+
+
+

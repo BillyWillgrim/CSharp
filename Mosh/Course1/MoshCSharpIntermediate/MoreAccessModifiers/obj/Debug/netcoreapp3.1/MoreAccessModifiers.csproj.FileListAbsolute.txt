@@ -1,0 +1,13 @@
+D:\Git\CSharp\Mosh\Course1\MoshCSharpIntermediate\MoreAccessModifiers\bin\Debug\netcoreapp3.1\MoreAccessModifiers.exe
+D:\Git\CSharp\Mosh\Course1\MoshCSharpIntermediate\MoreAccessModifiers\bin\Debug\netcoreapp3.1\MoreAccessModifiers.deps.json
+D:\Git\CSharp\Mosh\Course1\MoshCSharpIntermediate\MoreAccessModifiers\bin\Debug\netcoreapp3.1\MoreAccessModifiers.runtimeconfig.json
+D:\Git\CSharp\Mosh\Course1\MoshCSharpIntermediate\MoreAccessModifiers\bin\Debug\netcoreapp3.1\MoreAccessModifiers.runtimeconfig.dev.json
+D:\Git\CSharp\Mosh\Course1\MoshCSharpIntermediate\MoreAccessModifiers\bin\Debug\netcoreapp3.1\MoreAccessModifiers.dll
+D:\Git\CSharp\Mosh\Course1\MoshCSharpIntermediate\MoreAccessModifiers\bin\Debug\netcoreapp3.1\MoreAccessModifiers.pdb
+D:\Git\CSharp\Mosh\Course1\MoshCSharpIntermediate\MoreAccessModifiers\obj\Debug\netcoreapp3.1\MoreAccessModifiers.csprojAssemblyReference.cache
+D:\Git\CSharp\Mosh\Course1\MoshCSharpIntermediate\MoreAccessModifiers\obj\Debug\netcoreapp3.1\MoreAccessModifiers.AssemblyInfoInputs.cache
+D:\Git\CSharp\Mosh\Course1\MoshCSharpIntermediate\MoreAccessModifiers\obj\Debug\netcoreapp3.1\MoreAccessModifiers.AssemblyInfo.cs
+D:\Git\CSharp\Mosh\Course1\MoshCSharpIntermediate\MoreAccessModifiers\obj\Debug\netcoreapp3.1\MoreAccessModifiers.csproj.CoreCompileInputs.cache
+D:\Git\CSharp\Mosh\Course1\MoshCSharpIntermediate\MoreAccessModifiers\obj\Debug\netcoreapp3.1\MoreAccessModifiers.dll
+D:\Git\CSharp\Mosh\Course1\MoshCSharpIntermediate\MoreAccessModifiers\obj\Debug\netcoreapp3.1\MoreAccessModifiers.pdb
+D:\Git\CSharp\Mosh\Course1\MoshCSharpIntermediate\MoreAccessModifiers\obj\Debug\netcoreapp3.1\MoreAccessModifiers.genruntimeconfig.cache
