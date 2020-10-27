@@ -1,0 +1,22 @@
+What is an interface?
+
+A language construct similar to a class (in syntax) but fundamentally different.
+
+Syntax:
+
+public interface ITaxCalculator
+{
+	int Calculate();
+}
+
+All interfaces start with an I.
+
+Unlike classes, interfaces do not have implementation, only declaration.
+
+Interface members do not have access modifiers.
+
+Why use an interface?
+
+Interfaces are used to build loosely coupled applications.
+
+

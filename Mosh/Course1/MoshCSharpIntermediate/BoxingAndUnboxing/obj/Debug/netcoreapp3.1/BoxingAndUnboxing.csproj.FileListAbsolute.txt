@@ -1,0 +1,13 @@
+D:\Git\CSharp\Mosh\Course1\MoshCSharpIntermediate\BoxingAndUnboxing\bin\Debug\netcoreapp3.1\BoxingAndUnboxing.exe
+D:\Git\CSharp\Mosh\Course1\MoshCSharpIntermediate\BoxingAndUnboxing\bin\Debug\netcoreapp3.1\BoxingAndUnboxing.deps.json
+D:\Git\CSharp\Mosh\Course1\MoshCSharpIntermediate\BoxingAndUnboxing\bin\Debug\netcoreapp3.1\BoxingAndUnboxing.runtimeconfig.json
+D:\Git\CSharp\Mosh\Course1\MoshCSharpIntermediate\BoxingAndUnboxing\bin\Debug\netcoreapp3.1\BoxingAndUnboxing.runtimeconfig.dev.json
+D:\Git\CSharp\Mosh\Course1\MoshCSharpIntermediate\BoxingAndUnboxing\bin\Debug\netcoreapp3.1\BoxingAndUnboxing.dll
+D:\Git\CSharp\Mosh\Course1\MoshCSharpIntermediate\BoxingAndUnboxing\bin\Debug\netcoreapp3.1\BoxingAndUnboxing.pdb
+D:\Git\CSharp\Mosh\Course1\MoshCSharpIntermediate\BoxingAndUnboxing\obj\Debug\netcoreapp3.1\BoxingAndUnboxing.csprojAssemblyReference.cache
+D:\Git\CSharp\Mosh\Course1\MoshCSharpIntermediate\BoxingAndUnboxing\obj\Debug\netcoreapp3.1\BoxingAndUnboxing.AssemblyInfoInputs.cache
+D:\Git\CSharp\Mosh\Course1\MoshCSharpIntermediate\BoxingAndUnboxing\obj\Debug\netcoreapp3.1\BoxingAndUnboxing.AssemblyInfo.cs
+D:\Git\CSharp\Mosh\Course1\MoshCSharpIntermediate\BoxingAndUnboxing\obj\Debug\netcoreapp3.1\BoxingAndUnboxing.csproj.CoreCompileInputs.cache
+D:\Git\CSharp\Mosh\Course1\MoshCSharpIntermediate\BoxingAndUnboxing\obj\Debug\netcoreapp3.1\BoxingAndUnboxing.dll
+D:\Git\CSharp\Mosh\Course1\MoshCSharpIntermediate\BoxingAndUnboxing\obj\Debug\netcoreapp3.1\BoxingAndUnboxing.pdb
+D:\Git\CSharp\Mosh\Course1\MoshCSharpIntermediate\BoxingAndUnboxing\obj\Debug\netcoreapp3.1\BoxingAndUnboxing.genruntimeconfig.cache

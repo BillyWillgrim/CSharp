@@ -1,0 +1,13 @@
+D:\Git\CSharp\TimCorey\SOLID\SingleResponsibility\SingleResponsibility\bin\Debug\netcoreapp3.1\SingleResponsibility.exe
+D:\Git\CSharp\TimCorey\SOLID\SingleResponsibility\SingleResponsibility\bin\Debug\netcoreapp3.1\SingleResponsibility.deps.json
+D:\Git\CSharp\TimCorey\SOLID\SingleResponsibility\SingleResponsibility\bin\Debug\netcoreapp3.1\SingleResponsibility.runtimeconfig.json
+D:\Git\CSharp\TimCorey\SOLID\SingleResponsibility\SingleResponsibility\bin\Debug\netcoreapp3.1\SingleResponsibility.runtimeconfig.dev.json
+D:\Git\CSharp\TimCorey\SOLID\SingleResponsibility\SingleResponsibility\bin\Debug\netcoreapp3.1\SingleResponsibility.dll
+D:\Git\CSharp\TimCorey\SOLID\SingleResponsibility\SingleResponsibility\bin\Debug\netcoreapp3.1\SingleResponsibility.pdb
+D:\Git\CSharp\TimCorey\SOLID\SingleResponsibility\SingleResponsibility\obj\Debug\netcoreapp3.1\SingleResponsibility.csprojAssemblyReference.cache
+D:\Git\CSharp\TimCorey\SOLID\SingleResponsibility\SingleResponsibility\obj\Debug\netcoreapp3.1\SingleResponsibility.AssemblyInfoInputs.cache
+D:\Git\CSharp\TimCorey\SOLID\SingleResponsibility\SingleResponsibility\obj\Debug\netcoreapp3.1\SingleResponsibility.AssemblyInfo.cs
+D:\Git\CSharp\TimCorey\SOLID\SingleResponsibility\SingleResponsibility\obj\Debug\netcoreapp3.1\SingleResponsibility.csproj.CoreCompileInputs.cache
+D:\Git\CSharp\TimCorey\SOLID\SingleResponsibility\SingleResponsibility\obj\Debug\netcoreapp3.1\SingleResponsibility.dll
+D:\Git\CSharp\TimCorey\SOLID\SingleResponsibility\SingleResponsibility\obj\Debug\netcoreapp3.1\SingleResponsibility.pdb
+D:\Git\CSharp\TimCorey\SOLID\SingleResponsibility\SingleResponsibility\obj\Debug\netcoreapp3.1\SingleResponsibility.genruntimeconfig.cache

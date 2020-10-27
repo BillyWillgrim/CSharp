@@ -1,0 +1,13 @@
+D:\Git\CSharp\Mosh\Course1\MoshCSharpIntermediate\Interface-Testability\bin\Debug\netcoreapp3.1\Interface-Testability.exe
+D:\Git\CSharp\Mosh\Course1\MoshCSharpIntermediate\Interface-Testability\bin\Debug\netcoreapp3.1\Interface-Testability.deps.json
+D:\Git\CSharp\Mosh\Course1\MoshCSharpIntermediate\Interface-Testability\bin\Debug\netcoreapp3.1\Interface-Testability.runtimeconfig.json
+D:\Git\CSharp\Mosh\Course1\MoshCSharpIntermediate\Interface-Testability\bin\Debug\netcoreapp3.1\Interface-Testability.runtimeconfig.dev.json
+D:\Git\CSharp\Mosh\Course1\MoshCSharpIntermediate\Interface-Testability\bin\Debug\netcoreapp3.1\Interface-Testability.dll
+D:\Git\CSharp\Mosh\Course1\MoshCSharpIntermediate\Interface-Testability\bin\Debug\netcoreapp3.1\Interface-Testability.pdb
+D:\Git\CSharp\Mosh\Course1\MoshCSharpIntermediate\Interface-Testability\obj\Debug\netcoreapp3.1\Interface-Testability.csprojAssemblyReference.cache
+D:\Git\CSharp\Mosh\Course1\MoshCSharpIntermediate\Interface-Testability\obj\Debug\netcoreapp3.1\Interface-Testability.AssemblyInfoInputs.cache
+D:\Git\CSharp\Mosh\Course1\MoshCSharpIntermediate\Interface-Testability\obj\Debug\netcoreapp3.1\Interface-Testability.AssemblyInfo.cs
+D:\Git\CSharp\Mosh\Course1\MoshCSharpIntermediate\Interface-Testability\obj\Debug\netcoreapp3.1\Interface-Testability.csproj.CoreCompileInputs.cache
+D:\Git\CSharp\Mosh\Course1\MoshCSharpIntermediate\Interface-Testability\obj\Debug\netcoreapp3.1\Interface-Testability.dll
+D:\Git\CSharp\Mosh\Course1\MoshCSharpIntermediate\Interface-Testability\obj\Debug\netcoreapp3.1\Interface-Testability.pdb
+D:\Git\CSharp\Mosh\Course1\MoshCSharpIntermediate\Interface-Testability\obj\Debug\netcoreapp3.1\Interface-Testability.genruntimeconfig.cache

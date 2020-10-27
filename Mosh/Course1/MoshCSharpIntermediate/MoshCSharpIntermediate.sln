@@ -25,11 +25,27 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Composition", "Composition\
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MoreAccessModifiers", "MoreAccessModifiers\MoreAccessModifiers.csproj", "{2F407601-9190-4DB3-B71C-9C9C02B37FA4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConstructorsAndInheritance", "ConstructorsAndInheritance\ConstructorsAndInheritance.csproj", "{8BD8851B-7615-4AE2-BAA0-494C38909C07}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConstructorsAndInheritance", "ConstructorsAndInheritance\ConstructorsAndInheritance.csproj", "{8BD8851B-7615-4AE2-BAA0-494C38909C07}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UpcastingAndDowncasting", "UpcastingAndDowncasting\UpcastingAndDowncasting.csproj", "{24F91E2B-957F-45A6-8A23-91A6FC131EF6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UpcastingAndDowncasting", "UpcastingAndDowncasting\UpcastingAndDowncasting.csproj", "{24F91E2B-957F-45A6-8A23-91A6FC131EF6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfApp1", "WpfApp1\WpfApp1.csproj", "{8CCF4CC7-9AEB-4926-958C-3982C1123019}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WpfApp1", "WpfApp1\WpfApp1.csproj", "{8CCF4CC7-9AEB-4926-958C-3982C1123019}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BoxingAndUnboxing", "BoxingAndUnboxing\BoxingAndUnboxing.csproj", "{D4B0C730-DB93-4CFA-8B46-3F0C6F92F4CB}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MethodOverriding", "MethodOverriding\MethodOverriding.csproj", "{56D0B07F-20FE-487A-9608-2FE00088DC6D}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AbstractClassesAndMembers", "AbstractClassesAndMembers\AbstractClassesAndMembers.csproj", "{606A6EB9-1FDC-46C8-8F1D-1CD150080C11}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WhatIsAnInterface", "WhatIsAnInterface\WhatIsAnInterface.csproj", "{F0F655C1-974F-4ACB-BBCB-60A71669C0FF}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Interface-Testability", "Interface-Testability\Interface-Testability.csproj", "{A94A8381-4BF8-4708-A6C4-016890F7C675}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Testability.UnitTests", "Testability.UnitTests\Testability.UnitTests.csproj", "{F2D1EE68-9BB4-44EA-A04C-FC9FB6581684}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LINQ", "LINQ\LINQ.csproj", "{7B427E8A-4204-4DBD-A78E-1FF2E0EC4E9F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Generics", "Generics\Generics.csproj", "{215E0A41-0650-45B0-9CEB-A91F8404619C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -93,6 +109,38 @@ Global
 		{8CCF4CC7-9AEB-4926-958C-3982C1123019}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8CCF4CC7-9AEB-4926-958C-3982C1123019}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8CCF4CC7-9AEB-4926-958C-3982C1123019}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D4B0C730-DB93-4CFA-8B46-3F0C6F92F4CB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D4B0C730-DB93-4CFA-8B46-3F0C6F92F4CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D4B0C730-DB93-4CFA-8B46-3F0C6F92F4CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D4B0C730-DB93-4CFA-8B46-3F0C6F92F4CB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{56D0B07F-20FE-487A-9608-2FE00088DC6D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{56D0B07F-20FE-487A-9608-2FE00088DC6D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{56D0B07F-20FE-487A-9608-2FE00088DC6D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{56D0B07F-20FE-487A-9608-2FE00088DC6D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{606A6EB9-1FDC-46C8-8F1D-1CD150080C11}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{606A6EB9-1FDC-46C8-8F1D-1CD150080C11}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{606A6EB9-1FDC-46C8-8F1D-1CD150080C11}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{606A6EB9-1FDC-46C8-8F1D-1CD150080C11}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F0F655C1-974F-4ACB-BBCB-60A71669C0FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F0F655C1-974F-4ACB-BBCB-60A71669C0FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F0F655C1-974F-4ACB-BBCB-60A71669C0FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F0F655C1-974F-4ACB-BBCB-60A71669C0FF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A94A8381-4BF8-4708-A6C4-016890F7C675}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A94A8381-4BF8-4708-A6C4-016890F7C675}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A94A8381-4BF8-4708-A6C4-016890F7C675}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A94A8381-4BF8-4708-A6C4-016890F7C675}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F2D1EE68-9BB4-44EA-A04C-FC9FB6581684}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F2D1EE68-9BB4-44EA-A04C-FC9FB6581684}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F2D1EE68-9BB4-44EA-A04C-FC9FB6581684}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F2D1EE68-9BB4-44EA-A04C-FC9FB6581684}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7B427E8A-4204-4DBD-A78E-1FF2E0EC4E9F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7B427E8A-4204-4DBD-A78E-1FF2E0EC4E9F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7B427E8A-4204-4DBD-A78E-1FF2E0EC4E9F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7B427E8A-4204-4DBD-A78E-1FF2E0EC4E9F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{215E0A41-0650-45B0-9CEB-A91F8404619C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{215E0A41-0650-45B0-9CEB-A91F8404619C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{215E0A41-0650-45B0-9CEB-A91F8404619C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{215E0A41-0650-45B0-9CEB-A91F8404619C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

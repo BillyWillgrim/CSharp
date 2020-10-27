@@ -1,0 +1,12 @@
+D:\Git\CSharp\Mosh\Course1\MoshCSharpIntermediate\AbstractClassesAndMembers\bin\Debug\netcoreapp3.1\AbstractClassesAndMembers.exe
+D:\Git\CSharp\Mosh\Course1\MoshCSharpIntermediate\AbstractClassesAndMembers\bin\Debug\netcoreapp3.1\AbstractClassesAndMembers.deps.json
+D:\Git\CSharp\Mosh\Course1\MoshCSharpIntermediate\AbstractClassesAndMembers\bin\Debug\netcoreapp3.1\AbstractClassesAndMembers.runtimeconfig.json
+D:\Git\CSharp\Mosh\Course1\MoshCSharpIntermediate\AbstractClassesAndMembers\bin\Debug\netcoreapp3.1\AbstractClassesAndMembers.runtimeconfig.dev.json
+D:\Git\CSharp\Mosh\Course1\MoshCSharpIntermediate\AbstractClassesAndMembers\bin\Debug\netcoreapp3.1\AbstractClassesAndMembers.dll
+D:\Git\CSharp\Mosh\Course1\MoshCSharpIntermediate\AbstractClassesAndMembers\bin\Debug\netcoreapp3.1\AbstractClassesAndMembers.pdb
+D:\Git\CSharp\Mosh\Course1\MoshCSharpIntermediate\AbstractClassesAndMembers\obj\Debug\netcoreapp3.1\AbstractClassesAndMembers.AssemblyInfoInputs.cache
+D:\Git\CSharp\Mosh\Course1\MoshCSharpIntermediate\AbstractClassesAndMembers\obj\Debug\netcoreapp3.1\AbstractClassesAndMembers.AssemblyInfo.cs
+D:\Git\CSharp\Mosh\Course1\MoshCSharpIntermediate\AbstractClassesAndMembers\obj\Debug\netcoreapp3.1\AbstractClassesAndMembers.csproj.CoreCompileInputs.cache
+D:\Git\CSharp\Mosh\Course1\MoshCSharpIntermediate\AbstractClassesAndMembers\obj\Debug\netcoreapp3.1\AbstractClassesAndMembers.dll
+D:\Git\CSharp\Mosh\Course1\MoshCSharpIntermediate\AbstractClassesAndMembers\obj\Debug\netcoreapp3.1\AbstractClassesAndMembers.pdb
+D:\Git\CSharp\Mosh\Course1\MoshCSharpIntermediate\AbstractClassesAndMembers\obj\Debug\netcoreapp3.1\AbstractClassesAndMembers.genruntimeconfig.cache

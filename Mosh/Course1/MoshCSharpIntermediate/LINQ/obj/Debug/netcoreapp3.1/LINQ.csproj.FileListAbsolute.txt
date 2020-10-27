@@ -1,0 +1,12 @@
+D:\Git\CSharp\Mosh\Course1\MoshCSharpIntermediate\LINQ\bin\Debug\netcoreapp3.1\LINQ.exe
+D:\Git\CSharp\Mosh\Course1\MoshCSharpIntermediate\LINQ\obj\Debug\netcoreapp3.1\LINQ.AssemblyInfoInputs.cache
+D:\Git\CSharp\Mosh\Course1\MoshCSharpIntermediate\LINQ\obj\Debug\netcoreapp3.1\LINQ.AssemblyInfo.cs
+D:\Git\CSharp\Mosh\Course1\MoshCSharpIntermediate\LINQ\bin\Debug\netcoreapp3.1\LINQ.deps.json
+D:\Git\CSharp\Mosh\Course1\MoshCSharpIntermediate\LINQ\bin\Debug\netcoreapp3.1\LINQ.runtimeconfig.json
+D:\Git\CSharp\Mosh\Course1\MoshCSharpIntermediate\LINQ\bin\Debug\netcoreapp3.1\LINQ.runtimeconfig.dev.json
+D:\Git\CSharp\Mosh\Course1\MoshCSharpIntermediate\LINQ\bin\Debug\netcoreapp3.1\LINQ.dll
+D:\Git\CSharp\Mosh\Course1\MoshCSharpIntermediate\LINQ\bin\Debug\netcoreapp3.1\LINQ.pdb
+D:\Git\CSharp\Mosh\Course1\MoshCSharpIntermediate\LINQ\obj\Debug\netcoreapp3.1\LINQ.csproj.CoreCompileInputs.cache
+D:\Git\CSharp\Mosh\Course1\MoshCSharpIntermediate\LINQ\obj\Debug\netcoreapp3.1\LINQ.dll
+D:\Git\CSharp\Mosh\Course1\MoshCSharpIntermediate\LINQ\obj\Debug\netcoreapp3.1\LINQ.pdb
+D:\Git\CSharp\Mosh\Course1\MoshCSharpIntermediate\LINQ\obj\Debug\netcoreapp3.1\LINQ.genruntimeconfig.cache

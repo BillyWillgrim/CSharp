@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "L3fBwRieUNOWuzMQV1ZW3zNvEHi8Dy1eVr0PIl+DWR0qojIJfHR2AkPAsXwLB84AIZLvt8I45XjALzExEizJ0A==",
+  "success": true,
+  "projectFilePath": "D:\\Git\\CSharp\\Mosh\\Course1\\MoshCSharpIntermediate\\LINQ\\LINQ.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\William Gash\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\William Gash\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
+    "C:\\Users\\William Gash\\.nuget\\packages\\system.collections\\4.3.0\\system.collections.4.3.0.nupkg.sha512",
+    "C:\\Users\\William Gash\\.nuget\\packages\\system.runtime\\4.3.0\\system.runtime.4.3.0.nupkg.sha512"
+  ],
+  "logs": []
+}

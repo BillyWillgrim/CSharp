@@ -1,0 +1,53 @@
+
+Abstract Modifier
+
+The Abstract modifier indicates that a class or a member is missing implementation
+
+Example:
+
+	public class Shape
+	{
+		public virtual void Draw();
+	}
+
+	public class Circle : Shape
+	{
+		public override void Draw()
+		{
+			Console.WriteLine("Drawing a circle");
+		}
+	}
+
+	// It's easy to implement how to draw a circle, but it's impossible to tell the computer how to draw a 'shape' because the concept of shape is too abstract.
+	// therefore we can use the abstract modifier on the shape class Draw() method to inidicate that this method is missing implementation, and we're leaving it to the derived classes
+	// to provide the implementation for this method.
+
+	public abstract class Shape
+	{
+		public abstract virtual void Draw(); // note that this method is missing the body
+	}
+
+	public class Circle : Shape
+	{
+		public override void Draw()
+		{
+			Console.WriteLine("Drawing a circle");
+		}
+	}
+
+Abstract methods are inherently virtual and can provide polymorphic behaviour.
+
+Rules when working with abstract classes and members:
+
+	 . Do not include implementation
+
+	 . If a member is declared as abstract, the containing class needs to be declared as abstract too
+
+	 . Derived classes MUST implement all abstract members from the base abstract class
+
+	 . Abstract Classes cannot be instantiated
+
+Why use Abstract?
+
+	When you want to provide some common behaviour, while forcing other developers to follow your design
+

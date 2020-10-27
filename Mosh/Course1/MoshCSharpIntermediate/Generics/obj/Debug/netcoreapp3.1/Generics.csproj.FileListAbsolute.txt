@@ -1,0 +1,13 @@
+D:\Git\CSharp\Mosh\Course1\MoshCSharpIntermediate\Generics\bin\Debug\netcoreapp3.1\Generics.exe
+D:\Git\CSharp\Mosh\Course1\MoshCSharpIntermediate\Generics\bin\Debug\netcoreapp3.1\Generics.deps.json
+D:\Git\CSharp\Mosh\Course1\MoshCSharpIntermediate\Generics\bin\Debug\netcoreapp3.1\Generics.runtimeconfig.json
+D:\Git\CSharp\Mosh\Course1\MoshCSharpIntermediate\Generics\bin\Debug\netcoreapp3.1\Generics.runtimeconfig.dev.json
+D:\Git\CSharp\Mosh\Course1\MoshCSharpIntermediate\Generics\bin\Debug\netcoreapp3.1\Generics.dll
+D:\Git\CSharp\Mosh\Course1\MoshCSharpIntermediate\Generics\bin\Debug\netcoreapp3.1\Generics.pdb
+D:\Git\CSharp\Mosh\Course1\MoshCSharpIntermediate\Generics\obj\Debug\netcoreapp3.1\Generics.csprojAssemblyReference.cache
+D:\Git\CSharp\Mosh\Course1\MoshCSharpIntermediate\Generics\obj\Debug\netcoreapp3.1\Generics.AssemblyInfoInputs.cache
+D:\Git\CSharp\Mosh\Course1\MoshCSharpIntermediate\Generics\obj\Debug\netcoreapp3.1\Generics.AssemblyInfo.cs
+D:\Git\CSharp\Mosh\Course1\MoshCSharpIntermediate\Generics\obj\Debug\netcoreapp3.1\Generics.csproj.CoreCompileInputs.cache
+D:\Git\CSharp\Mosh\Course1\MoshCSharpIntermediate\Generics\obj\Debug\netcoreapp3.1\Generics.dll
+D:\Git\CSharp\Mosh\Course1\MoshCSharpIntermediate\Generics\obj\Debug\netcoreapp3.1\Generics.pdb
+D:\Git\CSharp\Mosh\Course1\MoshCSharpIntermediate\Generics\obj\Debug\netcoreapp3.1\Generics.genruntimeconfig.cache

@@ -1,0 +1,41 @@
+Method Overriding
+
+Method overriding is simply modifying the implementation of an inherited method.
+
+There are often cases where we may want to modify the implementation of a method that we have inherited from a base class.
+This may be because the implementation of the method in the base class does not apply to the inherited class.
+
+Note: Method overriding and method overloading are not the same thing.
+
+Overloading - method with same name but different signature.
+
+Overriding - changing the implementation of an inherited method.
+
+Example:
+
+	public class Shape
+	{
+		public virtual void Draw()
+		{
+			// default implementation
+		}
+	}
+
+	public class Circle : Shape
+	{
+		public override void Draw()
+		{
+			// new implementation
+		}
+	}
+
+	public class Image : Shape
+	{
+		public override void Draw()
+		{
+		}
+	}
+
+Without the override keyword, the Draw method will use the default implementation defined in the base class.
+
+This is an example of polymorphic behaviour in C#.

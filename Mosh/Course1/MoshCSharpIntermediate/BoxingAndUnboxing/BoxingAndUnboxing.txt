@@ -1,0 +1,62 @@
+Boxing/Unboxing
+
+All types in C# are divided into categories:
+	
+	. Value Types 
+
+	. Reference Types
+
+Value Types:
+
+	Value types are stored on the stack. All primitive types (byte, int, float, char, bool) are value types, as is the sctruct type.
+
+	When a program is executed, a limited amount of space in the memory is allocated to each thread of your program. This space is used to store simple value type and is called the stack.
+
+	Values stored in the stack have a short lifetime - as soon as they go out of scope they get kicked off teh stack by the runtime.
+
+
+Reference Types:
+
+	Reference types are stored in the heap. All classes (Object, Array, String, DbMigrator, etc.) are reference types.
+
+	The heap is a larger amount of memory used to store objects that require a longer lifetime.
+
+	We learnt previously that an object reference can be implicitly converted to a base class reference.
+
+		Circle circle = new Circle();
+		Shape shape = circle;
+
+	We also know that the Object class is the base class of all classes in the .NET Framework, so we could modify the above code to the following:
+
+		Circle circle = new Circle();
+		Shape shape = circle;
+		Object shape = circle;
+
+	What happens if we put a value type on the right hand side of the assignment operator - this is called Boxing.
+
+Boxing:
+
+	Boxing is the process of converting a value type instance to an object reference:
+
+		int number = 10;
+		object obj = number;
+
+		//or
+		object obj = 10;
+
+	Behind the scenes this value gets boxed by the CLR and stored in the heap instead of the stack
+
+Unboxing:
+
+	Is the opposite:
+
+		object obj = 10;
+
+		int number = (int)obj;
+
+	Here we get a new variable on the stack called number with the value of 10.
+
+
+Both boxing and unboxing have a performance penalty due to the extra object creation - which is something that should usually be avoided.
+
+
